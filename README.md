@@ -8,8 +8,8 @@
 
 **Find me on:**
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ainoa-aran/)](https://www.linkedin.com/in/ainoa-aran/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ainoa.aam@gmail.com)](mailto:ainoa.aam@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ainoa-aran/)](https://www.linkedin.com/in/ainoa-aran/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:ainoa.aam@gmail.com)](mailto:ainoa.aam@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-fafcff.svg?style=flat&logo=github&logoColor=black)](https://github.com/Ainoaran)
 
 
