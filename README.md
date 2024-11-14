@@ -18,11 +18,12 @@
 **Languages and Tools:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit&logoColor=white)
-![AssertJ](https://img.shields.io/badge/-AssertJ-yellow?logoColor=white)
-![Hamcrest](https://img.shields.io/badge/-Hamcrest-red?logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Junit](https://img.shields.io/badge/-JUnit-red?style=flat&logo=junit5&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 **DevOps:**
 
