@@ -36,6 +36,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0380fc?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-044382?style=flat&logo=eclipse-ide&logoColor=orange)
 
+**Learning:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
 ## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ariamdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
