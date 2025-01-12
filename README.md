@@ -5,9 +5,9 @@
 ✨ In my free time I love to play videogames, paint and hiking in the nature.<br>
 💬 We can talk in English, Spanish, Catalan, French & Japanese.<br>
 
-**Now Working on:**
+**Projects:**
 
-👩‍🔧 PokeNest API: My final project of the bootcamp, a Java Api RESTfull (Spring boot) of a Virtual Pet .
+👩‍🔧 [PokeNest API](https://github.com/ariamdev/PokeNest-Backend): My final project of the bootcamp, a Java Api RESTfull (Spring boot) of a Virtual Pet.
 
 **Find me on:**
 
