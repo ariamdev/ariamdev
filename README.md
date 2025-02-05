@@ -1,7 +1,7 @@
 ## About Me:
 
 🌱 I just finished my bootcamp of Java & Spring Framework at @IT-Academy-BCN.<br>
-👩‍💼 I used to work in International Sales.<br>
+👩‍💼 I used to work in International Business.<br>
 ✨ In my free time I love to play videogames, paint and hiking in the nature.<br>
 💬 We can talk in English, Spanish, Catalan, French & Japanese.<br>
 
